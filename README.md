@@ -1,6 +1,7 @@
 # districtCodeTextToSql
 대한민국 법정동 코드를 DB에 넣기 위한 sql변환기
 
+원본 txt 파일: https://www.code.go.kr/stdcode/regCodeL.do
 
 
 
